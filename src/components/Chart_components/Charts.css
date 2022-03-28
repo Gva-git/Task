@@ -1,0 +1,51 @@
+.chart_bar {
+    width: 89%;
+    height: 220px !important;
+    /* margin-left: 5px; */
+    padding: 20px;
+    background-color: #fff;
+}
+.chart_buttons {
+    background-color: #dadada;
+    border: none;
+    padding: 10px;
+    margin-left: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 11px;
+}
+.chart_buttons_active {
+    background-color: #fff;
+    border: none;
+    padding: 10px;
+    /* margin-left: 5px; */
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 11px;
+    color: #6600ee;
+    font-weight: 600;
+}
+.left {
+    width: 50%;
+}
+.right {
+	width: 42%;
+    display: flex;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    height: 100%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.chart_wrap_container {
+	display: flex;
+	/* width: 100%; */
+	justify-content: space-between;
+    align-items: center;
+    /* height: 315px; */
+}
+.pie_bar canvas {
+	height: 200px !important;
+	/* background: #fff; */
+}

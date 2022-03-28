@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+}
+body {
+    height: 100%;
+}
+#root {
+    height: 100%;
+}
+.body {
+    width: 100%;
+    height: 100%;
+}
+.container {
+    height: 100%;
+}
+.top_bar {
+    /* height: 8%; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.content {
+  display: flex;
+  height: 92%;
+}
+.side_bar {
+    width: 100px;
+    background-color: #000;
+}
+.main-content {
+    width: 100%;
+    height: 88.5%;
+}
+.app_chart_wrap {
+	width: 90%;
+	margin: 0 auto;
+}
