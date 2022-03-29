@@ -39,7 +39,7 @@ const Slider_Card = () => {
                     </div>
                     <h3 className="number">{data[0].value}</h3>
                 </div>
-                <Divider type="vertical" className="divider"/>
+                
                 <div className="card1">
                     <div className="left_card">
                         <p className="cards_icons">{data[1].type}</p>
@@ -47,7 +47,7 @@ const Slider_Card = () => {
                     </div>
                     <h3 className="number">{data[1].value}</h3>
                 </div>
-                <Divider type="vertical" />
+
                 <div className="card1">
                     <div className="left_card">
                         <p className="cards_icons">{data[2].type}</p>
@@ -55,7 +55,7 @@ const Slider_Card = () => {
                     </div>
                     <h3 className="number">{data[2].value}</h3>
                 </div>
-                <Divider type="vertical" />
+                
                 <div className="card1">
                     <div className="left_card">
                         <p className="cards_icons">{data[3].type}</p>
