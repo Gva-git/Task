@@ -31,6 +31,8 @@ body {
     height: 88.5%;
 }
 .app_chart_wrap {
-	width: 90%;
+	width: 95%;
 	margin: 0 auto;
+	max-height: 280px;
+	height: 100%;
 }

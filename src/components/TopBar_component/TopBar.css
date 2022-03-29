@@ -65,6 +65,7 @@
 	max-width: 100px !important;
 	width: 100%;
 	text-align: center;
+    padding: 10px;
 }
 .icons_list span svg path {
     color: #470097 !important
